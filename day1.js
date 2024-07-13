@@ -16,15 +16,15 @@ console.log(bool);
 // ----task 4----
 
 let num = 4
-let str = "hey"
-let bool = false
+let strr = "hey"
+let booll = false
 const obj = {
     name: "ashi",
     age: 20
 }
 const arr = [1,2,3,4]
 
-console.log(typeof num, typeof str, typeof bool, typeof obj, typeof arr,);
+console.log(typeof num, typeof strr, typeof booll, typeof obj, typeof arr,);
 
 // ----task 5----
 
@@ -44,19 +44,19 @@ console.log(num);
 
 // ----feature request 1---- 
 let num = 4
-let str = "hey"
-let bool = false
-const obj = {
+let str1 = "hey"
+let bool1 = false
+const obj1 = {
     name: "ashi",
     age: 20
 }
-const arr = [1,2,3,4]
+const arr1 = [1,2,3,4]
 
 console.log(`${num} : ${typeof num}`);
-console.log(`${str} : ${typeof str}`);
-console.log(`${bool} : ${typeof bool}`);
-console.log(`${obj} : ${typeof obj}`);
-console.log(`${arr} : ${typeof arr}`);
+console.log(`${str} : ${typeof str1}`);
+console.log(`${bool} : ${typeof bool1}`);
+console.log(`${obj} : ${typeof obj1}`);
+console.log(`${arr} : ${typeof arr1}`);
 
 // ----feature request 2---- 
 
